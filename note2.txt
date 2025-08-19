@@ -1,0 +1,1 @@
+This is another note to reinforce how to push to Github. This will be saved as a second text note. (note2) 
